@@ -1,0 +1,42 @@
+
+_____________GOING THROUGH ALL COMBOS_____________
+
+threds length 1 (seconds): 0.01400303840637207
+threds length 2 (seconds): 0.027005434036254883
+threds length 3 (seconds): 0.04799842834472656
+threds length 4 (seconds): 1.123262882232666
+threds length 5 (seconds): 41.35809302330017
+threds length 6 (seconds): 2340.9211161136627
+
+processes length 1 (seconds): 0.20799469947814941   
+processes length 2 (seconds): 0.2100365161895752
+processes length 3 (seconds): 0.2110443115234375
+processes length 4 (seconds): 0.37593555450439453
+processes length 5 (seconds): 8.734025239944458
+processes length 6 (seconds): 517.169438123703
+
+
+_____________FINDING PASSWORD_____________
+
+threds length 1 (seconds): 0.0
+threds length 2 (seconds): 0.0009982585906982422
+threds length 3 (seconds): 0.007989168167114258
+threds length 4 (seconds): 0.21106314659118652
+threds length 5 (seconds): 8.155985116958618
+threds length 6 (seconds): 457.36302399635115
+
+processes length 1 (seconds): 0.16403841972351074
+processes length 2 (seconds): 0.17303919792175293   
+processes length 3 (seconds): 0.1780414581298828
+processes length 4 (seconds): 0.20703744888305664
+processes length 5 (seconds): 3.6177914142608643
+processes length 6 (seconds): 222.1484398841858
+
+
+_____________PASSWORDS TESTED_____________
+test 1: a
+test 2: x8
+test 3: ja2
+test 4: hej1
+test 5: hej11
+test 5: hej11x
